@@ -14,7 +14,7 @@ Cloud and platform engineer with 10+ years of experience building and operating 
 
 - Cloud & containers: AWS, Azure, GCP, Kubernetes, Amazon EKS / EKS Auto Mode, Docker, Helm
 
-- Infrastructure & delivery: Terraform, Terragrunt, CloudFormation, Ansible, GitHub Actions, GitLab CI, Jenkins, Harness, Argo CD, GitOps, blue-green deployments
+- Infrastructure & delivery: Terraform, Terragrunt, CloudFormation, Ansible, GitHub Actions, GitLab CI, Jenkins, Harness, Flux, Argo CD, GitOps, blue-green deployments
 
 - Observability & data: Prometheus, Grafana, Loki, Datadog, Airflow / Amazon MWAA, Kafka, Flink, Redis, PostgreSQL
 
@@ -28,7 +28,7 @@ May 2025 - Present | Greenwood Village, CO
 
 - Designed and developed an enterprise internal developer platform on AWS EKS Auto Mode supporting an internal portal for AI-assisted applications built by engineers across the organization; development is ongoing.
 
-- Implemented declarative application onboarding, Helm-based reusable application infrastructure, and Argo CD ApplicationSet auto-discovery to automate GitOps CI/CD for multiple applications and their differing dependencies.
+- Implemented declarative application onboarding, Helm-based reusable application infrastructure, and Flux-based GitOps delivery with CI/CD automation for multiple applications and their differing dependencies.
 
 - Implemented blue-green deployments and release safeguards, workload identity, and secrets management to support secure, governed application delivery.
 

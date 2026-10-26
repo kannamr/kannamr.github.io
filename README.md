@@ -20,7 +20,7 @@ I focus on platform reliability, developer enablement, cloud governance, automat
 | Cloud Platforms | AWS, Azure, GCP |
 | Containers & Orchestration | Kubernetes, Amazon EKS, Docker, Helm |
 | Infrastructure as Code | Terraform, Terragrunt, CloudFormation, Ansible |
-| CI/CD & GitOps | GitHub Actions, GitLab CI, Jenkins, Harness, Argo CD |
+| CI/CD & GitOps | GitHub Actions, GitLab CI, Jenkins, Harness, Flux, Argo CD |
 | Observability | Prometheus, Grafana, Loki, Datadog |
 | Data & Workflow Platforms | Amazon MWAA, Airflow, Kafka, Flink, Redis, PostgreSQL |
 | Cloud Security | IAM, Service Control Policies, GuardDuty, access governance |
@@ -33,7 +33,7 @@ I focus on platform reliability, developer enablement, cloud governance, automat
 At Charter Communications, I designed and developed a multi-application GitOps platform on **AWS EKS Auto Mode** supporting an internal portal for AI-assisted applications created and deployed by engineers across the organization. Development is ongoing.
 
 - Declarative application onboarding and Helm-based reusable application infrastructure.
-- Argo CD ApplicationSet auto-discovery and GitOps CI/CD automation.
+- Flux-based GitOps automation and CI/CD workflows.
 - Blue-green deployments and release safeguards.
 - Workload identity, secrets management, and support for different application dependencies.
 
