@@ -117,12 +117,15 @@ Local settings, credentials, Python caches, and temporary review files are exclu
 
 ## Personal project licensing
 
-The [LLM Inference Platform](projects/llm-inference-platform/README.md) is an
-independent project licensed under [Apache License 2.0](projects/llm-inference-platform/LICENSE).
+The [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) is an
+independent project licensed under [Apache License 2.0](https://github.com/kannamr/llm-inference-platform/blob/main/LICENSE).
 It permits commercial use, modification, and redistribution subject to its terms.
-Read the [licensing guide](projects/llm-inference-platform/docs/licensing.md) for
+Read the [licensing guide](https://github.com/kannamr/llm-inference-platform/blob/main/docs/licensing.md) for
 scope, attribution, and third-party notices.
 
-That license covers the project directory only. It does not license employer
+The implementation lives in its own repository, separate from this portfolio.
+Keep project source code in a sibling checkout, not inside this website repository.
+
+That license covers the standalone project only. It does not license employer
 systems, the portfolio's resume or photograph, or future projects automatically.
 The project's implementation status remains separate from its licensing status.

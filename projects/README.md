@@ -5,16 +5,19 @@ contain or recreate proprietary employer implementations.
 
 | Project | Status | License |
 |---|---|---|
-| [LLM Inference Platform](llm-inference-platform/README.md) | Milestone 1 verified with a synthetic backend | [Apache License 2.0](llm-inference-platform/LICENSE) |
+| [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) | Milestone 1 verified with a synthetic backend | [Apache License 2.0](https://github.com/kannamr/llm-inference-platform/blob/main/LICENSE) |
 | Secure AI Agent Runtime Platform | Planned; no implementation here yet | Terms will accompany the implementation |
 | AI Reliability & Evaluation Platform | Planned; no implementation here yet | Terms will accompany the implementation |
 | Kubernetes GPU Workload Scheduling Lab | Planned; no implementation here yet | Terms will accompany the implementation |
+
+This directory contains project summaries only. Implementations belong in their
+own repositories, checked out alongside the portfolio rather than inside it.
 
 ## Publication conventions
 
 Each implemented project should carry its own LICENSE, NOTICE, contribution
 policy, third-party notices, setup instructions, architecture, limitations, and
-verified results. Read the license in that project's directory before using it;
+verified results. Read the license in that project's repository before using it;
 this index grants no additional permissions.
 
 Apache License 2.0 is the selected license for the personal projects. Each future

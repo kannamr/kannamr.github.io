@@ -28,3 +28,6 @@ __pycache__/
 *.log
 
 # Keep assets/resume.pdf: the website links to this published document.
+
+# Project implementations live in separate repositories.
+/projects/llm-inference-platform/
