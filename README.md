@@ -51,14 +51,18 @@ The internal developer platform, its FinOps capability, and the IAM key-rotation
 
 ## Independent AI Infrastructure Projects
 
-I am planning four independent projects:
+The [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) is **in progress**. Milestone 1 includes an authenticated Python gateway, rate limiting, concurrency controls, observability, and 31 passing tests. Current benchmarks use a synthetic backend; real-model inference and GPU performance remain unverified.
 
-- Production-Grade LLM Inference Platform
-- Secure AI Agent Runtime Platform
-- AI Reliability & Evaluation Platform
-- Kubernetes GPU Workload Scheduling Lab
+**LLM project repository:** [github.com/kannamr/llm-inference-platform](https://github.com/kannamr/llm-inference-platform)
 
-These projects are not yet complete. I will share repositories and test results as the work progresses, and add completed projects to my resume after testing.
+| Project | Status |
+|---|---|
+| [Production-Grade LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) | In progress — Milestone 1 verified with a synthetic backend |
+| Secure AI Agent Runtime Platform | Planned |
+| AI Reliability & Evaluation Platform | Planned |
+| Kubernetes GPU Workload Scheduling Lab | Planned |
+
+These are independent personal projects, separate from my professional enterprise work. Implementations live in their own repositories. Completed projects will be added to my resume after the claimed functionality has been tested and verified.
 
 ## Selected Engineering Impact
 

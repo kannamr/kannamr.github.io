@@ -3,9 +3,11 @@
 These projects are personal portfolio work by Kumar Raja Annamreddi. They do not
 contain or recreate proprietary employer implementations.
 
+**LLM project repository:** [github.com/kannamr/llm-inference-platform](https://github.com/kannamr/llm-inference-platform)
+
 | Project | Status | License |
 |---|---|---|
-| [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) | Milestone 1 verified with a synthetic backend | [Apache License 2.0](https://github.com/kannamr/llm-inference-platform/blob/main/LICENSE) |
+| [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) | In progress — Milestone 1 verified with a synthetic backend | [Apache License 2.0](https://github.com/kannamr/llm-inference-platform/blob/main/LICENSE) |
 | Secure AI Agent Runtime Platform | Planned; no implementation here yet | Terms will accompany the implementation |
 | AI Reliability & Evaluation Platform | Planned; no implementation here yet | Terms will accompany the implementation |
 | Kubernetes GPU Workload Scheduling Lab | Planned; no implementation here yet | Terms will accompany the implementation |
