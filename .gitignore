@@ -1,0 +1,30 @@
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+/.codex/
+/.agents/
+/.vscode/
+/.idea/
+
+# macOS and editor temporary files
+.DS_Store
+._*
+*~
+*.swp
+*.swo
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local previews, rendered review images, and logs
+/tmp/
+/output/
+*.log
+
+# Keep assets/resume.pdf: the website links to this published document.
