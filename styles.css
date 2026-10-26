@@ -231,6 +231,7 @@ a {
 
 .social-row {
     display: flex;
+    flex-wrap: wrap;
     gap: 23px;
     font: 11px "DM Mono", monospace;
     color: #8498b1;

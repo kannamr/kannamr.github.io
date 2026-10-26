@@ -1,4 +1,3 @@
-
 # Kumar Raja Annamreddi
 ### Cloud Engineering · Platform Engineering · AI Infrastructure
 
@@ -9,6 +8,7 @@ I focus on platform reliability, developer enablement, cloud governance, automat
 **Portfolio:** [kannamr.github.io](https://kannamr.github.io)  
 **LinkedIn:** [linkedin.com/in/kumarannamreddi](https://www.linkedin.com/in/kumarannamreddi)  
 **GitHub:** [github.com/kannamr](https://github.com/kannamr)  
+**Medium:** [medium.com/@kr.annamreddi](https://medium.com/@kr.annamreddi)\
 **Contact:** [kr.annamreddi@gmail.com](mailto:kr.annamreddi@gmail.com)
 
 ---
@@ -64,6 +64,16 @@ The [LLM Inference Platform](https://github.com/kannamr/llm-inference-platform) 
 
 These are independent personal projects, separate from my professional enterprise work. Implementations live in their own repositories. Completed projects will be added to my resume after the claimed functionality has been tested and verified.
 
+## Articles
+
+I write about platform engineering, developer experience, and AI infrastructure on [Medium](https://medium.com/@kr.annamreddi).
+
+### [From Vibe Coding to Running Apps: How Kubernetes Powers the Platform](https://medium.com/@kr.annamreddi/from-vibe-coding-to-running-apps-how-kubernetes-powers-the-platform-1051684ef7a2)
+
+**Published on Medium.** How a Kubernetes platform helps application creators move from a prototype to a running app through repository-based delivery or a static HTML upload. I explain the general approach to onboarding, GitOps delivery, release safeguards, and ownership without sharing proprietary implementation details.
+
+Future article ideas include Terraform module design and the operational needs of AI model-serving workloads. These topics are planned, not published.
+
 ## Selected Engineering Impact
 
 - **Enterprise cloud automation:** Developed Python automation for IAM access-key rotation across 200+ AWS accounts.
@@ -94,7 +104,7 @@ I am building on my cloud and platform engineering background with a focus on:
 - Observability, reliability, and operational readiness
 - Secure, cost-efficient cloud architecture
 
-Portfolio projects will be linked here as their implementations and documentation become publicly available.
+The LLM Inference Platform repository is linked above. Additional project repositories will be added as their implementations and documentation become publicly available.
 
 ## Education
 
@@ -114,6 +124,8 @@ Auburn University at Montgomery
 ## Maintaining the portfolio
 
 Edit `index.html` for page content and `styles.css` for presentation. The site uses plain HTML, CSS, and JavaScript; no build step is needed.
+
+Keep project statuses and repository links consistent across the website, this README, and `projects/README.md`. When publishing an article, update the website’s Articles section and the list above with its title and direct link. Keep unpublished ideas clearly marked as planned.
 
 Edit `assets/resume.md`, install ReportLab in your Python environment, and run `python3 scripts/build_resume.py` to update the downloadable resume. Review the PDF before committing it. Keep the source, build script, and PDF together in the repository so future updates are reproducible.
 
