@@ -1,0 +1,9 @@
+*
+!requirements.txt
+!inference/
+!inference/*.py
+!LICENSE
+!NOTICE
+!THIRD_PARTY_NOTICES.md
+!third_party/
+!third_party/**

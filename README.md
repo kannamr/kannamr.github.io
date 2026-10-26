@@ -114,3 +114,15 @@ Edit `index.html` for page content and `styles.css` for presentation. The site u
 Edit `assets/resume.md`, install ReportLab in your Python environment, and run `python3 scripts/build_resume.py` to update the downloadable resume. Review the PDF before committing it. Keep the source, build script, and PDF together in the repository so future updates are reproducible.
 
 Local settings, credentials, Python caches, and temporary review files are excluded by `.gitignore`. Keep screenshots and other review output in `tmp/` or `output/`; files in `assets/` are intended for publication.
+
+## Personal project licensing
+
+The [LLM Inference Platform](projects/llm-inference-platform/README.md) is an
+independent project licensed under [Apache License 2.0](projects/llm-inference-platform/LICENSE).
+It permits commercial use, modification, and redistribution subject to its terms.
+Read the [licensing guide](projects/llm-inference-platform/docs/licensing.md) for
+scope, attribution, and third-party notices.
+
+That license covers the project directory only. It does not license employer
+systems, the portfolio's resume or photograph, or future projects automatically.
+The project's implementation status remains separate from its licensing status.
